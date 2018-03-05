@@ -1,1 +1,4 @@
-# zindi-docs2
+# zindi-docs
+
+
+## [Terminology]
