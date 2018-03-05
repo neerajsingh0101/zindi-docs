@@ -14,3 +14,5 @@
 #### [How to populate today's date in mm/dd/yyyy format](https://github.com/zindi-io/zindi-docs2/blob/master/todays-date-in-mm-dd-yyyy-format.md)
 
 #### [How to get random number between two integers](https://github.com/zindi-io/zindi-docs2/blob/master/random-number-between-two-integers.md)
+
+#### [How to test page should not contain certain text](
