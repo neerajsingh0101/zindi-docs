@@ -11,5 +11,5 @@
 
 # How to articles
 
-#### How to populate today's date in mm/dd/yyyy format(https://github.com/zindi-io/zindi-docs2/blob/master/todays-date-in-mm-dd-yyyy-format.md)
+#### [How to populate today's date in mm/dd/yyyy format](https://github.com/zindi-io/zindi-docs2/blob/master/todays-date-in-mm-dd-yyyy-format.md)
 
