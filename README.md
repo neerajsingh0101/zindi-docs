@@ -1,4 +1,4 @@
-# zindi-docs
+zindi-docs
 
 # Features 
 
