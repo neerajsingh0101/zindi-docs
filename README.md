@@ -15,4 +15,4 @@
 
 #### [How to get random number between two integers](https://github.com/zindi-io/zindi-docs2/blob/master/random-number-between-two-integers.md)
 
-#### [How to test page should not contain certain text](
+#### [How to test page should not contain certain text](https://github.com/zindi-io/zindi-docs2/blob/master/page-should-not-contain.md)
