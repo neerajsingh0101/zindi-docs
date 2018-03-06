@@ -8,7 +8,7 @@
 
 #### [Environment Settings](https://github.com/zindi-io/zindi-docs2/blob/master/environment-settings.md)
 
-#### [Executing Custom JavaScript]
+#### [Executing Custom JavaScript](https://github.com/zindi-io/zindi-docs/blob/master/executing-custom-javascript.md)
 
 #### [Caputring JavaScript Error](https://github.com/zindi-io/zindi-docs/blob/master/capturing-javascript-error.md)
 
