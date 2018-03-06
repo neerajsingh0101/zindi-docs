@@ -8,6 +8,8 @@
 
 #### [Environment Settings](https://github.com/zindi-io/zindi-docs2/blob/master/environment-settings.md)
 
+#### [Caputring JavaScript Error]
+
 
 # How to articles
 
