@@ -31,6 +31,6 @@
 
 # Misc
 
-#### [What Chrome Browser Version is supported]
+#### [What Chrome Browser Version is supported](https://github.com/zindi-io/zindi-docs/blob/master/misc/chrome-browser-version.md)
 
-#### [Which git client to use]
+#### [Which git client to use](https://github.com/zindi-io/zindi-docs/blob/master/misc/git-client.md)
