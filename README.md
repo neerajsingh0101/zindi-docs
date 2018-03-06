@@ -8,6 +8,8 @@
 
 #### [Environment Settings](https://github.com/zindi-io/zindi-docs2/blob/master/environment-settings.md)
 
+#### [Executing Custom JavaScript]
+
 #### [Caputring JavaScript Error](https://github.com/zindi-io/zindi-docs/blob/master/capturing-javascript-error.md)
 
 #### [iFrame Support] - video coming up
