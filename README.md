@@ -25,5 +25,4 @@
 
 #### [How to get random number between two integers](https://github.com/zindi-io/zindi-docs/blob/master/how-to/random-number-between-two-integers.md)
 
-
 #### [How to find an element and scroll to it]
