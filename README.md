@@ -27,4 +27,4 @@
 
 #### [How to find an element and scroll to it](https://github.com/zindi-io/zindi-docs/blob/master/how-to/find-an-element-and-scroll-to-it.md)
 
-#### [How to set text in trix editor]
+#### [How to set text in trix editor](https://github.com/zindi-io/zindi-docs/blob/master/how-to/set-text-in-trix-editor.md)
