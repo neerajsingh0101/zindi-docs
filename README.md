@@ -12,7 +12,7 @@
 
 #### [Caputring JavaScript Error](https://github.com/zindi-io/zindi-docs/blob/master/features/capturing-javascript-error.md)
 
-#### [Built in Random Number]()
+#### [Built in Random Number](https://github.com/zindi-io/zindi-docs/blob/master/features/built-in-random-number.md)
 
 
 #### [iFrame Support] - video coming up
