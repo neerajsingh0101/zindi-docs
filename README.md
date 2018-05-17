@@ -32,6 +32,9 @@
 
 #### [How to set text in trix editor](https://github.com/zindi-io/zindi-docs/blob/master/how-to/set-text-in-trix-editor.md)
 
+#### [How to fix smart quote issues in xpath](https://github.com/zindi-io/zindi-docs/blob/master/how-to/fix-smart-quote-issue-in-xpath.md)
+
+
 # Misc
 
 #### [What Chrome Browser Version is supported](https://github.com/zindi-io/zindi-docs/blob/master/misc/chrome-browser-version.md)
